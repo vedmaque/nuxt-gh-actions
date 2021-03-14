@@ -1,1 +1,1 @@
-# NuxtJS deploy to github pages example
+# NuxtJS with Github Actions deploy to Github Pages example
